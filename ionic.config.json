@@ -1,7 +1,0 @@
-{
-  "name": "sensor",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
