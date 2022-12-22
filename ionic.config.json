@@ -1,7 +1,7 @@
 {
-  "name": "myApp",
+  "name": "sensor",
   "integrations": {
-    "cordova": {}
+    "capacitor": {}
   },
   "type": "angular"
 }
